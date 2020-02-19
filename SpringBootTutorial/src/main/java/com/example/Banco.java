@@ -6,6 +6,8 @@ import java.math.BigDecimal;
  * 
  * @author mtay
  *
+ *
+ *
  */
 public class Banco {
 	String nombre;
